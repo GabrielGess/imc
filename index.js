@@ -55,7 +55,7 @@ if (25 <= imc < 30){
 }
 } 
 
-
+/*function getclassificationDescrition; escrito com o metdo de object mapping */
 
 function getclassificationDescrition(classification){
         
@@ -68,6 +68,8 @@ function getclassificationDescrition(classification){
 
 }
 
+
+/*function getclassificationDescrition; escrito com o operador condicional switch case.*/
 
 // function getclassificationDescrition(classification){
     //switch(classification){
